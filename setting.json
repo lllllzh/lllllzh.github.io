@@ -1,46 +1,46 @@
 {
-    "title": "無名の主页",
+    "title": "CODLIN的主页",
     "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
+    "keywords": "LZH,个人主页",
+    "author": "LZH",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
-    "logo_text_2": "top",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
+    "logo_text_1": "codlin",
+    "logo_text_2": "cn",
+    "github": "lzh217",
+    "qq": "824228781",
+    "email": "824228781",
+    "bilibili": "479729271",
     "telegram": "bottom_user",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://blog.codlin.cn/",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://drive.codlin.cn/",
         "fa-solid fa-cloud",
         "网盘"
     ],
     "link_3": [
-        "https://blog.imsyy.top/",
+        "https://blog.codlin.cn/",
         "fa-solid fa-music",
         "音乐"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "https://nav.codlin.cn/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "https://web.codlin.cn/",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "https://lab.codlin.cn/",
         "fa-solid fa-flask",
         "实验室"
     ],
-    "Copyright_text": "無名",
-    "beian": "豫ICP备2022018134号-1"
+    "Copyright_text": "LZH",
+    "beian": ""
 }
