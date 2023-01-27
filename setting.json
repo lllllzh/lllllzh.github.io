@@ -1,46 +1,46 @@
 {
-    "title": "CODLIN的主页",
+    "title": "LZH的主页",
     "description": "一个默默无闻的主页",
     "keywords": "LZH,个人主页",
     "author": "LZH",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "codlin",
+    "logo_text_1": "lllzh",
     "logo_text_2": "cn",
-    "github": "lzh217",
+    "github": "LZH217",
     "qq": "824228781",
     "email": "824228781",
     "bilibili": "479729271",
-    "telegram": "bottom_user",
+    
     "link_1": [
-        "https://blog.codlin.cn/",
+        "https://blog.lllzh.cn/",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.codlin.cn/",
+        "https://drive.lllzh.cn/",
         "fa-solid fa-cloud",
         "网盘"
     ],
     "link_3": [
-        "https://blog.codlin.cn/",
+        "https://blog.lllzh.cn/",
         "fa-solid fa-music",
         "音乐"
     ],
     "link_4": [
-        "https://nav.codlin.cn/",
+        "https://nav.lllzh.cn/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://web.codlin.cn/",
+        "https://web.lllzh.cn/",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://lab.codlin.cn/",
+        "https://lab.lllzh.cn/",
         "fa-solid fa-flask",
         "实验室"
     ],
     "Copyright_text": "LZH",
-    "beian": ""
+    "beian": "鲁"
 }
