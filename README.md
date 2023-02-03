@@ -2,7 +2,7 @@
 <strong><h2>CODLIN的主页</h2></strong>
 </p>
 
-https://www.codlin.cn
+https://codlin.cn
 
 项目源码 Made by [imsyy](https://github.com/imsyy/home)
 
