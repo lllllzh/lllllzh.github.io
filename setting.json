@@ -4,7 +4,7 @@
     "keywords": "LZH,个人主页",
     "author": "LZH",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "lllzh",
+    "logo_text_1": "codlin",
     "logo_text_2": "cn",
     "github": "LZH217",
     "qq": "824228781",
@@ -42,5 +42,5 @@
         "实验室"
     ],
     "Copyright_text": "LZH",
-    "beian": "鲁"
+    // "beian": "鲁"
 }
